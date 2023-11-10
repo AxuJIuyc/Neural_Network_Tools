@@ -107,6 +107,4 @@ if __name__ == "__main__":
     dct_filename = "test_dict.csv"
     ann = read_anno(filename, dct_filename, otype='table')
 
-ann
-
 
